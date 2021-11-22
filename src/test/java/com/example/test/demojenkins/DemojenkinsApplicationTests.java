@@ -5,7 +5,7 @@ package com.example.test.demojenkins;
 import org.testng.annotations.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.springframework.boot.test.context.SpringBootTest;
+
 
 //@SpringBootTest
 public class DemojenkinsApplicationTests {
