@@ -3,7 +3,6 @@
 <suite name="Suite">
     <test thread-count="5" name="Test1">
         <classes>
-            
             <class name="com.example.test.demojenkins.DemojenkinsApplicationTests"/>
         </classes>
     </test>
